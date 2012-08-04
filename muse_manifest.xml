@@ -1,0 +1,49 @@
+<manifest alg="2" build="960" opt="false">
+  <folder name="css">
+    <file name="site_global.css" crc="245309250"/>
+    <file name="fotos.css" crc="187460419" ref="fotos"/>
+    <file name="servicios.css" crc="4283525344" ref="servicios"/>
+    <file name="menu.css" crc="353406427" ref="menu"/>
+    <file name="index.css" crc="4211557490" ref="index"/>
+    <file name="eventos.css" crc="230687541" ref="eventos"/>
+    <file name="contacto.css" crc="4010544183" ref="contacto"/>
+    <file name="implementaci_n.css" crc="479218219" ref="implementación"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+      <file name="sprydomutils.js" crc="222635312" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+      <file name="museutils.js" crc="4051851185" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+      <file name="pie.js" crc="942815" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+      <file name="jquery.musemenu.js" crc="161611954" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+      <file name="musesprycommon.js" crc="451615808" ref="fotos"/>
+      <file name="musesprypanels.js" crc="3807151473" ref="fotos"/>
+      <file name="musespryslideshow.js" crc="4281813978" ref="fotos"/>
+      <file name="jquery.museoverlay.js" crc="339018959" ref="fotos"/>
+    </folder>
+  </folder>
+  <folder name="images">
+    <file name="fondo_f2.jpg" crc="3794562351" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="degra3.png" crc="3915445478" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="superintro.swf" crc="470230206" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="u166-grad.png" crc="274113456" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="u302-r-grad.png" crc="4017441094" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="u302-m-grad.png" crc="438763521" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="pres6.jpg" crc="3997021522" ref="index:fotos"/>
+    <file name="u235-grad.png" crc="373662088" ref="index:eventos:servicios:implementación:menu:fotos:contacto"/>
+    <file name="foto3.png" crc="85612156" ref="servicios"/>
+    <file name="pres2.jpg" crc="63437928" ref="implementación:fotos"/>
+    <file name="pres1.jpg" crc="343419584" ref="fotos"/>
+    <file name="pres3.jpg" crc="518060129" ref="fotos"/>
+    <file name="pres4.jpg" crc="3830628132" ref="fotos"/>
+    <file name="pres5.jpg" crc="3862109391" ref="fotos"/>
+    <file name="loading.gif" crc="3815509949" ref="fotos"/>
+  </folder>
+  <file name="index.html" crc="4084160103" mt="1343753417877"/>
+  <file name="eventos.html" crc="215900878" mt="1343753408650"/>
+  <file name="servicios.html" crc="382571121" mt="1343753510207"/>
+  <file name="implementación.html" crc="3902355738" mt="1343753555796"/>
+  <file name="menu.html" crc="4278662618" mt="1343753567532"/>
+  <file name="fotos.html" crc="425338293" mt="1343753576479"/>
+  <file name="contacto.html" crc="455462782" mt="1343753591075"/>
+</manifest>
